@@ -1,6 +1,6 @@
 # Política de privacidad
 
-34labs construyó la aplicación Radios de España como una aplicación gratuita. Este SERVICIO es proporcionado por 34labs sin costo alguno y está destinado a ser utilizado tal cual.
+34labs construyó la aplicación Radios de España como una aplicación gratuita. Este SERVICIO es proporcionado por 34labs sin coste alguno y está destinado a ser utilizado tal cual.
 
 Esta página se utiliza para informar a los visitantes sobre nuestras políticas de recopilación, uso y divulgación de información personal si alguien decide utilizar nuestro Servicio.
 
@@ -23,7 +23,7 @@ Enlace a la política de privacidad de los proveedores de servicios de terceros 
 
 ## Datos de registro
 
-Queremos informarle que siempre que usted utiliza nuestro Servicio, en caso de un error en la aplicación, recogemos datos e información (a través de productos de terceros) en su teléfono llamado Log Data. Estos datos de registro pueden incluir información como la dirección del Protocolo de Internet ("IP") de su dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación cuando utiliza nuestro Servicio, la hora y la fecha de su uso del Servicio y otras estadísticas.
+Queremos informarle que siempre que usted utiliza nuestro Servicio, en caso de un error en la aplicación, recogemos datos e información (a través de productos de terceros) en su teléfono (Log Data o Datos de Registro). Estos datos de registro pueden incluir información como la dirección del Protocolo de Internet ("IP") de su dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación cuando utiliza nuestro Servicio, la hora y la fecha de su uso del Servicio y otras estadísticas.
 
 ## Cookies
 
@@ -61,5 +61,3 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Por lo tant
 ## Contáctenos
 
 Si tiene alguna pregunta o sugerencia sobre nuestra Política de Privacidad, no dude en contactarnos en gdpr@34labs.com.
-
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
