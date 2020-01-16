@@ -16,9 +16,9 @@ La aplicación utiliza servicios de terceros que pueden recopilar información u
 
 Enlace a la política de privacidad de los proveedores de servicios de terceros utilizados por la aplicación
 
-- [Servicios Google Play](https://policies.google.com/privacy)
+- [Servicios de Google Play](https://policies.google.com/privacy)
 - [AdMob](https://support.google.com/admob/answer/6128543)
-- [Análisis de la base de fuego](https://firebase.google.com/policies/analytics)
+- [Firebase Analytics](https://firebase.google.com/policies/analytics)
 - [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
 ## Datos de registro
